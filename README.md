@@ -22,7 +22,6 @@ You will need to restart the script once you are done using the aim trainer, as 
 
 ### Aim Trainer
 **~300ms** (still working to improve time)
-https://github.com/user-attachments/assets/6c0ae376-69e1-42c4-bd44-0647b4bc9bcb
 
 ![Aim Trainer](https://github.com/user-attachments/assets/1a5eb231-c727-4c82-89c3-322497a50066)
 
@@ -33,7 +32,7 @@ Currently under development, no guaranteed results yet. (Farthest I have gotten 
 ### Typing Speed
 **700 wpm** (scores may vary depending on computer processing speed)
 
-![Typing](https://github.com/user-attachments/assets/0657a524-c884-4a6f-b8b2-966f57909266)
+![Typing](https://github.com/user-attachments/assets/9ea183ab-7080-4836-ab9c-a0a763a623ec)
 
 
 ### Verbal Memory
