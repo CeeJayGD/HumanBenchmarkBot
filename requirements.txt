@@ -1,0 +1,6 @@
+pyautogui
+pytesseract
+webbrowser
+numpy
+pillow
+opencv-python
