@@ -30,7 +30,7 @@ Currently under development, no guaranteed results yet. (Farthest I have gotten 
 
 ### Typing Speed
 **700 wpm** (scores may vary depending on computer processing speed)
-https://github.com/user-attachments/assets/86144a53-127d-4756-8c7d-bb803a1c525a
+![Typing](https://github.com/user-attachments/assets/84944a53-c9a3-47a2-9bb1-d466068819d5)
 
 ### Verbal Memory
 **Unlimited**
@@ -39,4 +39,3 @@ https://github.com/user-attachments/assets/6891b5c1-86ef-49dd-8cd1-871b10b3dee4
 
 
 some tests may be affected by computer processing speed and other uncontrollable variables.
-
