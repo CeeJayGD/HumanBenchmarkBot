@@ -84,7 +84,7 @@ def numberMemory():
 
 def typing():
     wpm = int(input("Input words per minute (wpm):"))
-    input("Make sure your browser isn't minimized and press Enter:")
+    input("Make sure your browser is in fullscreen and press Enter:")
     webbrowser.open("https://humanbenchmark.com/tests/typing")
     time.sleep(3)
     screen = ImageGrab.grab(bbox=(470,370,1440,610))
@@ -121,7 +121,6 @@ def verbalMemory():
 
 
 def main():
-    pyautogui.mouseInfo()
     print(" ______                    __                         __         ______         __   ")
     print("|   __ \\.-----.-----.----.|  |--.--------.---.-.----.|  |--.    |   __ \\.-----.|  |_ ")
     print("|   __ <|  -__|     |  __||     |        |  _  |   _||    <     |   __ <|  _  ||   _|")
