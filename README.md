@@ -24,6 +24,8 @@ You will need to restart the script once you are done using the aim trainer, as 
 **~300ms** (still working to improve time)
 https://github.com/user-attachments/assets/6c0ae376-69e1-42c4-bd44-0647b4bc9bcb
 
+![Aim Trainer](https://github.com/user-attachments/assets/1a5eb231-c727-4c82-89c3-322497a50066)
+
 ### Number Memory
 **Unfinished**
 Currently under development, no guaranteed results yet. (Farthest I have gotten is 6)
@@ -36,7 +38,7 @@ Currently under development, no guaranteed results yet. (Farthest I have gotten 
 
 ### Verbal Memory
 **Unlimited**
-https://github.com/user-attachments/assets/6891b5c1-86ef-49dd-8cd1-871b10b3dee4
+![Verbal Memory](https://github.com/user-attachments/assets/574ff922-e2aa-43d2-9bdf-e79d7bad0239)
 
 
 
