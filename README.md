@@ -38,6 +38,7 @@ Currently under development, no guaranteed results yet. (Farthest I have gotten 
 
 ### Verbal Memory
 **Unlimited**
+
 ![Verbal Memory](https://github.com/user-attachments/assets/574ff922-e2aa-43d2-9bdf-e79d7bad0239)
 
 
